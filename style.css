@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(42, 47, 48);
+    color: aliceblue;
+}
+.btn-success:hover{
+    background-color: rgb(198, 119, 16)
+}
+.btn-warning:hover{
+    background-color: rgb(12, 124, 44)
+}
+button{
+    border: none;
+}
